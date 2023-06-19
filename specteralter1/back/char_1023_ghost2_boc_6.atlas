@@ -1,0 +1,1364 @@
+
+char_1023_ghost2_boc_6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Bangs_A
+  rotate: true
+  xy: 885, 735
+  size: 40, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+B_Body
+  rotate: 270
+  xy: 288, 718
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+B_Braid_A
+  rotate: 270
+  xy: 460, 853
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+B_Braid_B
+  rotate: 180
+  xy: 516, 724
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+B_Braid_C
+  rotate: false
+  xy: 115, 760
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+B_Braid_D
+  rotate: true
+  xy: 939, 757
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+B_Braid_E
+  rotate: true
+  xy: 651, 715
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+B_Dress
+  rotate: false
+  xy: 58, 692
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+B_Forearm
+  rotate: false
+  xy: 58, 731
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+B_Hat
+  rotate: true
+  xy: 153, 901
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+B_Hatcloth_A
+  rotate: false
+  xy: 153, 988
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+B_Hatcloth_B
+  rotate: false
+  xy: 717, 990
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+B_Hatflower
+  rotate: true
+  xy: 959, 949
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+B_Hatline_A
+  rotate: true
+  xy: 179, 670
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+B_Hatline_B
+  rotate: true
+  xy: 803, 672
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+B_Hem_A
+  rotate: false
+  xy: 235, 947
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+B_Hem_B
+  rotate: true
+  xy: 914, 687
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+B_Hem_C
+  rotate: true
+  xy: 410, 675
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+B_Hem_D
+  rotate: 270
+  xy: 102, 715
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+B_Hem_E
+  rotate: true
+  xy: 211, 746
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+B_Hem_F
+  rotate: true
+  xy: 192, 762
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+B_Hem_G
+  rotate: 180
+  xy: 947, 816
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+B_L_Arm
+  rotate: false
+  xy: 840, 927
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+B_L_Cape
+  rotate: false
+  xy: 42, 731
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+B_L_Finger_A
+  rotate: false
+  xy: 567, 774
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+B_L_Finger_B
+  rotate: false
+  xy: 949, 1010
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+B_L_Finger_C
+  rotate: false
+  xy: 135, 698
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+B_L_Finger_D
+  rotate: false
+  xy: 260, 791
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+B_L_Finger_E
+  rotate: false
+  xy: 523, 920
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+B_L_Foot
+  rotate: false
+  xy: 864, 802
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+B_L_Forearm
+  rotate: false
+  xy: 435, 882
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+B_L_Handclose_A
+  rotate: false
+  xy: 524, 652
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+B_L_Handclose_B
+  rotate: false
+  xy: 498, 656
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+B_L_Leg
+  rotate: false
+  xy: 462, 677
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+B_L_Palm
+  rotate: false
+  xy: 588, 655
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+B_L_Shoe
+  rotate: false
+  xy: 631, 700
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+B_L_Thigh
+  rotate: true
+  xy: 654, 666
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+B_R_Arm
+  rotate: true
+  xy: 854, 999
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+B_R_Finger_A
+  rotate: false
+  xy: 416, 889
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+B_R_Finger_B
+  rotate: false
+  xy: 642, 910
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+B_R_Finger_C
+  rotate: false
+  xy: 1012, 942
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+B_R_Finger_D
+  rotate: false
+  xy: 906, 933
+  size: 9, 14
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+B_R_Finger_E
+  rotate: false
+  xy: 142, 916
+  size: 9, 10
+  orig: 9, 11
+  offset: 0, 1
+  index: -1
+B_R_Foot
+  rotate: false
+  xy: 615, 654
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+B_R_Handclose
+  rotate: false
+  xy: 411, 655
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+B_R_Leg
+  rotate: true
+  xy: 734, 875
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+B_R_Palm
+  rotate: false
+  xy: 783, 651
+  size: 22, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+B_R_Shoe
+  rotate: false
+  xy: 365, 833
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+B_R_Thigh
+  rotate: true
+  xy: 44, 668
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+B_Red_A
+  rotate: false
+  xy: 2, 686
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+B_Red_B
+  rotate: 180
+  xy: 765, 717
+  size: 113, 57
+  orig: 113, 57
+  offset: 0, 0
+  index: -1
+B_Red_C
+  rotate: 180
+  xy: 576, 762
+  size: 162, 83
+  orig: 162, 83
+  offset: 0, 0
+  index: -1
+B_TL_Arm
+  rotate: true
+  xy: 437, 653
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+B_TL_Finger_A
+  rotate: false
+  xy: 818, 701
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+B_TL_Finger_B
+  rotate: false
+  xy: 783, 674
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+B_TL_Finger_C
+  rotate: false
+  xy: 151, 698
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+B_TL_Finger_D
+  rotate: false
+  xy: 570, 661
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+B_TL_Finger_E
+  rotate: false
+  xy: 737, 979
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+B_TL_Foot
+  rotate: false
+  xy: 261, 676
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+B_TL_Forearm
+  rotate: true
+  xy: 87, 660
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+B_TL_Gline
+  rotate: 270
+  xy: 139, 667
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+B_TL_Handclose_A
+  rotate: false
+  xy: 547, 652
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+B_TL_Handclose_B
+  rotate: false
+  xy: 32, 652
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+B_TL_Leg
+  rotate: false
+  xy: 2, 761
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+B_TL_Palm
+  rotate: false
+  xy: 471, 655
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+B_TL_Ring
+  rotate: false
+  xy: 972, 893
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+B_TL_Thigh
+  rotate: false
+  xy: 588, 677
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+B_TL_Yarn
+  rotate: false
+  xy: 759, 821
+  size: 79, 138
+  orig: 79, 138
+  offset: 0, 0
+  index: -1
+B_TM_Yarn
+  rotate: false
+  xy: 568, 908
+  size: 72, 114
+  orig: 75, 114
+  offset: 3, 0
+  index: -1
+B_TR_Arm
+  rotate: true
+  xy: 992, 654
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+B_TR_Finger_A
+  rotate: false
+  xy: 915, 842
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+B_TR_Finger_B
+  rotate: false
+  xy: 300, 773
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+B_TR_Finger_C
+  rotate: false
+  xy: 642, 926
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+B_TR_Finger_D
+  rotate: false
+  xy: 1011, 926
+  size: 9, 14
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+B_TR_Finger_E
+  rotate: false
+  xy: 153, 975
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+B_TR_Foot
+  rotate: false
+  xy: 297, 668
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+B_TR_Forearm
+  rotate: false
+  xy: 695, 654
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+B_TR_Gline
+  rotate: false
+  xy: 695, 681
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+B_TR_Handclose
+  rotate: false
+  xy: 721, 655
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+B_TR_Leg
+  rotate: true
+  xy: 592, 729
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+B_TR_Palm
+  rotate: false
+  xy: 385, 825
+  size: 21, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+B_TR_Ring
+  rotate: false
+  xy: 1007, 800
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+B_TR_Thigh
+  rotate: false
+  xy: 533, 676
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+B_TR_Yarn
+  rotate: true
+  xy: 59, 850
+  size: 76, 139
+  orig: 76, 139
+  offset: 0, 0
+  index: -1
+B_T_Backblue_A
+  rotate: false
+  xy: 185, 1013
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+B_T_Backblue_B
+  rotate: 270
+  xy: 201, 694
+  size: 61, 93
+  orig: 61, 93
+  offset: 0, 0
+  index: -1
+B_T_Backblue_C
+  rotate: true
+  xy: 880, 709
+  size: 45, 92
+  orig: 45, 92
+  offset: 0, 0
+  index: -1
+B_T_Backblue_D
+  rotate: false
+  xy: 261, 653
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+B_T_Body
+  rotate: false
+  xy: 882, 675
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+B_T_Chest
+  rotate: false
+  xy: 738, 802
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+B_T_Hat
+  rotate: 270
+  xy: 186, 802
+  size: 97, 60
+  orig: 97, 60
+  offset: 0, 0
+  index: -1
+B_T_Head
+  rotate: 180
+  xy: 749, 935
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+B_T_Hem_A
+  rotate: 180
+  xy: 840, 827
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+B_T_Hem_B
+  rotate: 180
+  xy: 58, 789
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+B_T_Hem_C
+  rotate: false
+  xy: 880, 932
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+B_T_Hem_D
+  rotate: 270
+  xy: 383, 730
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+B_T_Hem_E
+  rotate: 270
+  xy: 715, 828
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+B_T_Spine
+  rotate: false
+  xy: 252, 992
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+B_T_Temple
+  rotate: true
+  xy: 568, 823
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+B_T_Top
+  rotate: false
+  xy: 568, 844
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+B_Weapon_A
+  rotate: false
+  xy: 640, 846
+  size: 73, 59
+  orig: 73, 59
+  offset: 0, 0
+  index: -1
+B_Weapon_B
+  rotate: true
+  xy: 535, 820
+  size: 202, 31
+  orig: 202, 31
+  offset: 0, 0
+  index: -1
+B_Weapon_C
+  rotate: false
+  xy: 266, 931
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+B_Weapon_CEX
+  rotate: false
+  xy: 446, 932
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+B_Weapon_D
+  rotate: false
+  xy: 979, 721
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+F_Weapon_C
+  rotate: false
+  xy: 979, 721
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+B_Weapon_Line
+  rotate: true
+  xy: 714, 680
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+F_Weapon_Line
+  rotate: true
+  xy: 714, 680
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+B_Yarn_A
+  rotate: true
+  xy: 559, 793
+  size: 51, 142
+  orig: 51, 142
+  offset: 0, 0
+  index: -1
+B_Yarn_B
+  rotate: true
+  xy: 864, 777
+  size: 81, 97
+  orig: 81, 97
+  offset: 0, 0
+  index: -1
+F_Mouth4
+  rotate: false
+  xy: 176, 1019
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+F_TL_Arm
+  rotate: false
+  xy: 116, 660
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+F_TL_Brow
+  rotate: false
+  xy: 964, 1019
+  size: 16, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+F_TL_Ear
+  rotate: false
+  xy: 187, 781
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+F_TL_Eyeball
+  rotate: false
+  xy: 692, 791
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+F_TL_Eyeclose
+  rotate: false
+  xy: 781, 865
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+F_TL_Eyeclose2
+  rotate: false
+  xy: 591, 786
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+F_TL_Eyelash
+  rotate: false
+  xy: 882, 654
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+F_TL_Finger_A
+  rotate: false
+  xy: 726, 733
+  size: 12, 19
+  orig: 12, 20
+  offset: 0, 1
+  index: -1
+F_TL_Finger_B
+  rotate: false
+  xy: 169, 888
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+F_TL_Finger_C
+  rotate: false
+  xy: 188, 833
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+F_TL_Finger_D
+  rotate: false
+  xy: 971, 680
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+F_TL_Finger_E
+  rotate: false
+  xy: 841, 1012
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+F_TL_Foot
+  rotate: false
+  xy: 228, 665
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+F_TL_Forearm
+  rotate: false
+  xy: 533, 793
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+F_TL_Gline
+  rotate: 180
+  xy: 455, 683
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+F_TL_Handclose
+  rotate: true
+  xy: 334, 660
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+F_TL_Leg
+  rotate: true
+  xy: 478, 752
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+F_TL_Palm
+  rotate: false
+  xy: 630, 779
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+F_TL_Ring
+  rotate: false
+  xy: 42, 803
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+F_TL_Shoe
+  rotate: false
+  xy: 123, 862
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+F_TL_Temple
+  rotate: true
+  xy: 914, 665
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+F_TL_Thigh
+  rotate: true
+  xy: 372, 669
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+F_TL_White
+  rotate: false
+  xy: 840, 831
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+F_TL_Yarn
+  rotate: false
+  xy: 822, 887
+  size: 82, 136
+  orig: 82, 136
+  offset: 0, 0
+  index: -1
+F_TM_Yarn
+  rotate: false
+  xy: 688, 907
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+F_TR_Arm
+  rotate: true
+  xy: 822, 652
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+F_TR_Brow
+  rotate: false
+  xy: 587, 1019
+  size: 10, 3
+  orig: 12, 3
+  offset: 1, 0
+  index: -1
+F_TR_Eyeball
+  rotate: false
+  xy: 1011, 910
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+F_TR_Eyeclose
+  rotate: false
+  xy: 715, 899
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+F_TR_Eyeclose2
+  rotate: false
+  xy: 851, 918
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+F_TR_Eyelash
+  rotate: false
+  xy: 229, 885
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+F_TR_Finger_A
+  rotate: false
+  xy: 939, 737
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+F_TR_Finger_B
+  rotate: false
+  xy: 822, 972
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+F_TR_Finger_C
+  rotate: false
+  xy: 959, 935
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+F_TR_Finger_D
+  rotate: false
+  xy: 760, 906
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+F_TR_Finger_E
+  rotate: false
+  xy: 1014, 897
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+F_TR_Finger_Palm
+  rotate: false
+  xy: 203, 655
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+F_TR_Foot
+  rotate: false
+  xy: 849, 666
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+F_TR_Forearm
+  rotate: true
+  xy: 754, 668
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+F_TR_Gline
+  rotate: true
+  xy: 350, 682
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+F_TR_Hand_CP
+  rotate: false
+  xy: 2, 663
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+F_TR_Hand_CP2
+  rotate: false
+  xy: 658, 779
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+F_TR_Handclose_A
+  rotate: false
+  xy: 839, 734
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+F_TR_Handclose_B
+  rotate: false
+  xy: 966, 653
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+F_TR_Leg
+  rotate: true
+  xy: 2, 726
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+F_TR_Ring
+  rotate: false
+  xy: 536, 779
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+F_TR_Shoe
+  rotate: false
+  xy: 611, 784
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+F_TR_Temple
+  rotate: true
+  xy: 655, 909
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+F_TR_Thigh
+  rotate: false
+  xy: 561, 676
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+F_TR_White
+  rotate: false
+  xy: 660, 826
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+F_TR_Yarn
+  rotate: 270
+  xy: 59, 819
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+F_T_Backblue
+  rotate: true
+  xy: 782, 756
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+F_T_Bangs_A
+  rotate: false
+  xy: 972, 910
+  size: 37, 37
+  orig: 37, 38
+  offset: 0, 1
+  index: -1
+F_T_Bangs_B
+  rotate: false
+  xy: 107, 687
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+F_T_Bangs_C
+  rotate: false
+  xy: 349, 686
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+F_T_Bangs_D
+  rotate: false
+  xy: 816, 919
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+F_T_Braid
+  rotate: false
+  xy: 408, 813
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+F_T_Chest_A
+  rotate: false
+  xy: 165, 736
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+F_T_Chest_B
+  rotate: false
+  xy: 783, 688
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+F_T_Chest_C
+  rotate: false
+  xy: 615, 698
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+F_T_Face
+  rotate: false
+  xy: 416, 767
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+F_T_Hat
+  rotate: false
+  xy: 318, 845
+  size: 96, 60
+  orig: 96, 60
+  offset: 0, 0
+  index: -1
+F_T_Hatblue_A
+  rotate: true
+  xy: 619, 678
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+F_T_Hatblue_B
+  rotate: false
+  xy: 153, 903
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+F_T_Hatribbon
+  rotate: true
+  xy: 354, 894
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+F_T_Hatstar
+  rotate: false
+  xy: 987, 677
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+F_T_Head
+  rotate: true
+  xy: 906, 859
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+F_T_Hem_A
+  rotate: false
+  xy: 492, 727
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+F_T_Hem_B
+  rotate: 270
+  xy: 318, 789
+  size: 72, 97
+  orig: 72, 97
+  offset: 0, 0
+  index: -1
+F_T_Hem_C
+  rotate: true
+  xy: 695, 749
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+F_T_Hem_D
+  rotate: true
+  xy: 261, 690
+  size: 27, 86
+  orig: 27, 86
+  offset: 0, 0
+  index: -1
+F_T_Hem_E
+  rotate: false
+  xy: 603, 933
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+F_T_Hem_F
+  rotate: 180
+  xy: 288, 769
+  size: 94, 73
+  orig: 94, 73
+  offset: 0, 0
+  index: -1
+F_T_Mouth
+  rotate: false
+  xy: 935, 1019
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+F_T_Mouth2
+  rotate: false
+  xy: 708, 1017
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+F_T_Top
+  rotate: false
+  xy: 247, 843
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+F_T_Weapon
+  rotate: false
+  xy: 2, 818
+  size: 55, 204
+  orig: 55, 204
+  offset: 0, 0
+  index: -1
+F_T_Weaponblack
+  rotate: true
+  xy: 558, 715
+  size: 12, 119
+  orig: 12, 122
+  offset: 0, 2
+  index: -1
+F_T_Weaponline
+  rotate: true
+  xy: 787, 810
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+F_Weapon_A
+  rotate: false
+  xy: 356, 931
+  size: 88, 91
+  orig: 89, 91
+  offset: 1, 0
+  index: -1
+F_Weapon_AEX
+  rotate: false
+  xy: 59, 928
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+F_Weapon_B
+  rotate: false
+  xy: 266, 906
+  size: 192, 23
+  orig: 192, 24
+  offset: 0, 0
+  index: -1
+F_Weapon_D
+  rotate: false
+  xy: 479, 792
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
