@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRTS 404</title>
+    <style>
+    body,html{
+        margin:0;
+        padding:0;
+        background: url(Backgroundpro.jpg) no-repeat;
+        background-size:cover;
+        background-attachment:fixed;
+        background-color:#ececee;
+        font-size: 0;
+    }   
+    .damebkg{
+        width: 600px;
+        height: 300px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-60%);
+    }
+    .container{
+        width: 100vw;
+        height: 100vh;
+        position: relative;
+    }
+    .prtsborder{
+        position: absolute;
+        top: 26px;
+        left: 7px;
+        width: 230px;
+        animation:rotate 2s infinite;
+        -webkit-animation:rotate 2s infinite;
+    }
+    @keyframes rotate
+    {
+        0%{transform: rotate(0deg);}
+        50% {transform: rotate(0deg);}
+        100% {transform: rotate(90deg);}
+    }
+
+    @-webkit-keyframes rotate /* Safari and Chrome */
+    {
+        0%{transform: rotate(0deg);}
+        50% {transform: rotate(0deg);}
+        100% {transform: rotate(90deg);}
+    }
+    @media screen and (max-width: 600px) {
+        .damebkg{
+        width: 300px;
+        height: 150px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-60%);
+    }
+    .container{
+        width: 100vw;
+        height: 100vh;
+        position: relative;
+    }
+    .prtsborder{
+        position: absolute;
+        top: 13px;
+        left: 3.5px;
+        width: 115px;
+        animation:rotate 2s infinite;
+        -webkit-animation:rotate 2s infinite;
+    }
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="damebkg"><div class="prtsborder"><img src="外框.png" width="100%"></div><a href="https://prts.wiki"><img src="./prts404.png" width="100%"> </a>
+    </div>
+    </div>
+</body>
+</html>
