@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>648AD11423168339377F12BC</RequestId>
-  <HostId>prts-static.oss-cn-hangzhou.aliyuncs.com</HostId>
-  <Key>spine38/skin/char_4042_lumen/back_char_4042_lumen_ambiencesynesthesia_3/char_4042_lumen_ambiencesynesthesia_3.atlas</Key>
-  <EC>0026-00000001</EC>
-</Error>
