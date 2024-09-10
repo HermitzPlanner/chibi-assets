@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>648B01280166203534AD8001</RequestId>
-  <HostId>prts-static.oss-cn-hangzhou.aliyuncs.com</HostId>
-  <Key>spine38/skin/char_311_mudrok/back_char_311_mudrok_ambiencesynesthesia_2/char_311_mudrok_ambiencesynesthesia_2.png</Key>
-  <EC>0026-00000001</EC>
-</Error>
